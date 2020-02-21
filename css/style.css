@@ -404,11 +404,12 @@ body.offcanvas {
   position: relative; }
 
 .colorlib-heading {
-  font-size: 18px;
+  font-family: "Playfair Display", Arial, sans-serif;
+  font-size: 25px;
   margin-bottom: 4em;
   font-weight: 700;
   text-transform: uppercase;
-  letter-spacing: 5px;
+  /*letter-spacing: 5px;*/
   line-height: 1.8;
   position: relative; }
   .colorlib-heading span {
